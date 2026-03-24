@@ -56,7 +56,7 @@ This project analyzes the business impact of Wavecon's 5G rollout using data-dri
 ---
 
 ## 📽️ Presentation
-[Attach your PPT/PDF here]
+[https://youtu.be/nOqUBD_1M2U]
 
 ---
 
